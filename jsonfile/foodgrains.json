@@ -1,0 +1,94 @@
+[
+  {
+    "Particulars": "Agricultural Production Foodgrains",
+    "Unit": "257.13"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Cereals",
+    "Unit": "238.79"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Rabi",
+    "Unit": "129.06"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Kharif",
+    "Unit": "128.07"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Cereals Kharif",
+    "Unit": "122.16"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Cereals Rabi",
+    "Unit": "116.63"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Maize",
+    "Unit": "22.26"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Pulses",
+    "Unit": "18.34"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Maize Kharif",
+    "Unit": "16.19"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Pulses Rabi",
+    "Unit": "12.43"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Gram Rabi",
+    "Unit": "8.83"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Bajra Kharif",
+    "Unit": "8.74"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Maize Rabi",
+    "Unit": "6.06"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Pulses Kharif",
+    "Unit": "5.91"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Jowar",
+    "Unit": "5.28"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Tur Kharif",
+    "Unit": "3.02"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Jowar Kharif",
+    "Unit": "2.84"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Other Kharif Pulses Rabi",
+    "Unit": "2.73"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Jowar Rabi",
+    "Unit": "2.44"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Barley Rabi",
+    "Unit": "1.75"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Ragi Kharif",
+    "Unit": "1.57"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Other Kharif Pulses Kharif",
+    "Unit": "0.62"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Small Millets Kharif",
+    "Unit": "0.44"
+  }
+]
